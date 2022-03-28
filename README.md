@@ -9,9 +9,9 @@
 
 ## Week 7 Assignment
 
-Rebuild the social media app Birdie from Week 5 in SwiftUI
+Birdie a social media app twitter inspried in SwiftUI
 
-### Assignment Requirements completed
+### Requirements completed
 * Work as a Team to complete the Assignment
 * Create PostListView as Main View
 * Create PostView as a subviews
@@ -19,8 +19,6 @@ Rebuild the social media app Birdie from Week 5 in SwiftUI
 * make your code easier to understand, with subviews
 * Tapping Create New Post button should show NewPostView as a modal sheet
 * Add Image selection form NewPostView
-
-### Stretch Above and Beyond Requirements completed:
 * Added feature for user to Delete Birdie Post
 * Added Camera mode feature so users can take photos for their Birdie Post's
 * Added feature for user to make Birdie Post as favorite
