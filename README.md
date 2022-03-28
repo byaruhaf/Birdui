@@ -7,9 +7,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
-## Week 7 Assignment
-
-Birdie a social media app twitter inspried in SwiftUI
+Birdie a twitter inspried social media app in SwiftUI
 
 ### Requirements completed
 * Work as a Team to complete the Assignment
